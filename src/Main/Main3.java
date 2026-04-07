@@ -1,6 +1,7 @@
 package EstudioPOO1.src.Main;
 
 import EstudioPOO1.src.core.Persona.Artista;
+import EstudioPOO1.src.core.Persona.Invitado;
 import EstudioPOO1.src.core.Persona.Locutor;
 import EstudioPOO1.src.core.RockRollRadio.RockRollRadio;
 import EstudioPOO1.src.core.RockRollRadio.Programa.Cancion;
