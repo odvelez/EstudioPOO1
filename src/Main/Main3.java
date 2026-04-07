@@ -1,14 +1,12 @@
 package EstudioPOO1.src.Main;
 
-import core.person.Artista;
-import core.person.Invitado;
-import core.person.Locutor;
-import core.radio.RockRollRadio;
-import core.radio.program.Cancion;
-import core.radio.program.Emision;
-import core.radio.program.Programa;
-import core.radio.utils.Genero;
-
+import EstudioPOO1.src.core.Persona.Artista;
+import EstudioPOO1.src.core.Persona.Locutor;
+import EstudioPOO1.src.core.RockRollRadio.RockRollRadio;
+import EstudioPOO1.src.core.RockRollRadio.Programa.Cancion;
+import EstudioPOO1.src.core.RockRollRadio.Programa.Emision;
+import EstudioPOO1.src.core.RockRollRadio.Programa.Programa;
+import EstudioPOO1.src.core.RockRollRadio.Utils.Genero;
 
 public class Main3 {
     
