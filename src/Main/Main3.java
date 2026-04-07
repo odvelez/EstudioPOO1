@@ -1,4 +1,4 @@
-package main;
+package EstudioPOO1.src.Main;
 
 import core.person.Artista;
 import core.person.Invitado;
